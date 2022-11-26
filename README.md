@@ -8,8 +8,8 @@ Beberapa hal yang harus diperhatikan dalam pembuatan program adalah
 2. Bagaimana cara membuat NRZ Encoder yang dapat mengubah bit data ( 1 dan 0 ) menjadi sinyal ( 1 dan -1 )
 
 Penugasan:
-1. Buatlah sebuah program modulator BPSK dengan input bit data berupa teks dari 4 angka terakhir No. BP (Ubah menggunakan kode ASCII)
-2. Jelaskan tahapan pembuatan program modulator BPSK (Uraikan tahapannya seperti saya menjelaskan tahapan pembuatan program modulator AM pada minggu lalu).
+1. Buatlah sebuah program modulator BPSK dengan input bit data berupa teks dari 4 angka (Ubah menggunakan kode ASCII)
+2. Jelaskan tahapan pembuatan program modulator BPSK.
 
 Program:
 ![image](https://user-images.githubusercontent.com/107126204/204097272-9ea826c7-a807-44d3-8068-be576f1bc132.png)
